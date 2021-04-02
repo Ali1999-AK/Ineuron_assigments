@@ -1,2 +1,2 @@
 # assigments
-Assigiments 
+Assigiments for submission.
